@@ -1,0 +1,13 @@
+.login-image{
+    width: 400px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .login-image{
+        width: 300px;
+    }
+   .login-form{
+       margin-left: 45px;
+   }
+  }

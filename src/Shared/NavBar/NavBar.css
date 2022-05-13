@@ -1,0 +1,33 @@
+.nav-item{
+    font-size: 20px;
+    color: rgb(59, 56, 56);
+    font-family: inherit ;
+    font-weight: 500;
+    
+}
+
+.nav-item1{
+    font-size: 20px;
+    color: #176F6B !important;
+    font-family: inherit ;
+    font-weight: 500;
+}
+.nav-item:hover{
+    color: #176F6B!important;
+}
+
+.user_display_name{
+    color: rgb(21, 45, 182);
+    font-size: 15px;
+    margin-right: 10px;
+    margin-bottom: -2px;
+    font-weight: 600;
+
+}
+
+.main-nav{
+    margin-left: 100px;
+    
+    
+    
+}

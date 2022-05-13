@@ -1,0 +1,11 @@
+
+.line{
+    width: 195px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .line{
+        width: 100px;
+    }
+  }
